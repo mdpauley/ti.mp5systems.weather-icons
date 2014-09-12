@@ -1,7 +1,7 @@
 {
     "id": "com.mdpauley.weather-icons",
     "name": "com.mdpauley.weather-icons",
-    "description" : "Font-Awesome(v1.2.0) for Titanium Alloy",
+    "description" : "Weather-Icons(v1.2.0) for Titanium Alloy",
     "author": "Dave Gandy, Matt McFarland",
     "version": "1.2.0",
     "copyright":"See http://erikflowers.github.io/weather-icons/",
